@@ -1,0 +1,852 @@
+sample_ID	province	Latitude	Longitude	health zone
+equbole100001	Equateur	0.034349	18.2671222	Bolenge
+equbole100002	Equateur	0.034349	18.2671222	Bolenge
+equbole100005	Equateur	0.034349	18.2671222	Bolenge
+equbole100006	Equateur	0.034349	18.2671222	Bolenge
+equbole100007	Equateur	0.034349	18.2671222	Bolenge
+equbole100008	Equateur	0.034349	18.2671222	Bolenge
+equbole100009	Equateur	0.034349	18.2671222	Bolenge
+equbole100010	Equateur	0.034349	18.2671222	Bolenge
+equbole100015	Equateur	0.034349	18.2671222	Bolenge
+equbole100079	Equateur	0.034349	18.2671222	Bolenge
+equbole100081	Equateur	0.034349	18.2671222	Bolenge
+equbole100082	Equateur	0.034349	18.2671222	Bolenge
+equbole100085	Equateur	0.034349	18.2671222	Bolenge
+equbole100105	Equateur	0.034349	18.2671222	Bolenge
+equbole100106	Equateur	0.034349	18.2671222	Bolenge
+equbole100107	Equateur	0.034349	18.2671222	Bolenge
+equbole100118	Equateur	0.034349	18.2671222	Bolenge
+equbole200001	Equateur	0.034349	18.2671222	Bolenge
+equbole200002	Equateur	0.034349	18.2671222	Bolenge
+equbole200003	Equateur	0.034349	18.2671222	Bolenge
+equbole200004	Equateur	0.034349	18.2671222	Bolenge
+equbole200005	Equateur	0.034349	18.2671222	Bolenge
+equbole200006	Equateur	0.034349	18.2671222	Bolenge
+equbole200007	Equateur	0.034349	18.2671222	Bolenge
+equbole200009	Equateur	0.034349	18.2671222	Bolenge
+equbole200010	Equateur	0.034349	18.2671222	Bolenge
+equbole200012	Equateur	0.034349	18.2671222	Bolenge
+equbole200013	Equateur	0.034349	18.2671222	Bolenge
+equbole200014	Equateur	0.034349	18.2671222	Bolenge
+equbole200015	Equateur	0.034349	18.2671222	Bolenge
+equbole200016	Equateur	0.034349	18.2671222	Bolenge
+equbole200079	Equateur	0.034349	18.2671222	Bolenge
+equbole200080	Equateur	0.034349	18.2671222	Bolenge
+equbole200081	Equateur	0.034349	18.2671222	Bolenge
+equbole200082	Equateur	0.034349	18.2671222	Bolenge
+equbole200083	Equateur	0.034349	18.2671222	Bolenge
+equbole200084	Equateur	0.034349	18.2671222	Bolenge
+equbole200085	Equateur	0.034349	18.2671222	Bolenge
+equbole200086	Equateur	0.034349	18.2671222	Bolenge
+equbole200087	Equateur	0.034349	18.2671222	Bolenge
+equbole200088	Equateur	0.034349	18.2671222	Bolenge
+equbole200105	Equateur	0.034349	18.2671222	Bolenge
+equbole200106	Equateur	0.034349	18.2671222	Bolenge
+equbole200107	Equateur	0.034349	18.2671222	Bolenge
+equbole200108	Equateur	0.034349	18.2671222	Bolenge
+equbole200109	Equateur	0.034349	18.2671222	Bolenge
+equbole300001	Equateur	0.034349	18.2671222	Bolenge
+equbole300002	Equateur	0.034349	18.2671222	Bolenge
+equbole300003	Equateur	0.034349	18.2671222	Bolenge
+equbole300013	Equateur	0.034349	18.2671222	Bolenge
+equbole300014	Equateur	0.034349	18.2671222	Bolenge
+equbole300015	Equateur	0.034349	18.2671222	Bolenge
+equbole300016	Equateur	0.034349	18.2671222	Bolenge
+equbole300020	Equateur	0.034349	18.2671222	Bolenge
+equbole400047	Equateur	0.034349	18.2671222	Bolenge
+equbole400052	Equateur	0.034349	18.2671222	Bolenge
+equbole400053	Equateur	0.034349	18.2671222	Bolenge
+equbole400059	Equateur	0.034349	18.2671222	Bolenge
+equbole400060	Equateur	0.034349	18.2671222	Bolenge
+equbole400110	Equateur	0.034349	18.2671222	Bolenge
+equbole400117	Equateur	0.034349	18.2671222	Bolenge
+kasmika100001	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100002	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100003	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100004	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100005	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100007	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100008	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100009	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100010	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100011	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100012	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100013	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100014	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100016	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100017	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100018	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100020	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100021	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100022	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100023	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100024	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100025	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100026	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100027	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100028	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100029	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100030	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100031	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100032	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100033	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100034	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100035	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100036	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100037	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100038	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100039	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100040	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100041	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100042	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100043	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100044	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100045	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100046	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100047	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100048	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100049	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100079	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100080	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100081	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100082	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100083	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100084	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100085	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100086	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100087	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100088	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100089	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100090	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100091	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100092	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100093	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100094	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100095	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100096	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100097	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100098	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100099	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100100	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100101	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100102	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100103	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100104	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100105	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100107	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100108	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100118	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100119	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100120	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100121	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100122	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100123	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100124	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100125	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100126	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100127	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100128	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100129	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika100130	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200001	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200002	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200003	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200006	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200007	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200008	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200009	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200011	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200012	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200013	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200014	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200016	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200017	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200020	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200021	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200022	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200023	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200025	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200026	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200027	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200028	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200029	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200030	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200031	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200032	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200033	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200034	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200035	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200036	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200037	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200038	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200039	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200041	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200043	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200044	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200046	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200048	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200050	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200051	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200052	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200053	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200054	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200055	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200057	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200058	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200059	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200062	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200063	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200064	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200065	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200066	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200070	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200072	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200073	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200079	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200080	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200081	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200082	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200083	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200084	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200085	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200086	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200087	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200088	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200089	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200090	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200091	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200092	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200093	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200094	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200095	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200096	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200097	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200098	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200099	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200100	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200101	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200102	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200103	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200104	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200105	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200108	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200113	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200114	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200118	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200119	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200120	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200121	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200122	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200124	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200125	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200126	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200127	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200128	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika200129	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300003	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300009	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300011	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300022	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300025	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300034	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300038	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300045	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300050	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300056	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300069	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300070	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300071	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300079	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300080	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300081	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300082	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300083	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300084	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300085	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300086	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300087	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300088	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300090	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300091	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300092	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300094	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300095	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300096	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300097	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300098	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300099	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300100	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300101	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300102	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300103	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300104	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300118	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300119	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300120	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300122	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300126	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300127	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300128	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300129	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika300130	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400001	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400002	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400003	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400004	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400005	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400006	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400007	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400008	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400009	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400010	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400011	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400012	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400013	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400014	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400015	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400016	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400017	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400018	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400019	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400020	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400021	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400022	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400023	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400024	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400025	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400026	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400027	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400028	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400029	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400030	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400031	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400032	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400033	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400034	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400035	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400036	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400037	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400038	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400039	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400040	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400041	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400042	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400043	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400045	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400048	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400055	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400062	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400079	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400080	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400081	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400082	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400083	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400084	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400085	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400086	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400087	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400088	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400089	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400090	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400091	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400092	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400093	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400094	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400095	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400096	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400097	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400098	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400099	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400100	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400101	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400102	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400103	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400104	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400118	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400119	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400120	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400121	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400122	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400123	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400124	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kasmika400130	Kasai Central	-5.8972842	22.4004362	Mikalayi
+kinking100002	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100003	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100004	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100005	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100007	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100008	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100009	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100010	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100011	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100013	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100021	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100022	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100023	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100024	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100026	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100028	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100030	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100031	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100032	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100033	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100034	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100035	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100038	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100042	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100044	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100045	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100046	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100047	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100052	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100054	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100055	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100056	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100059	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100062	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100064	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100065	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100066	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100067	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100068	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100069	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100070	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100071	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100073	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100075	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100079	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100080	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100081	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100082	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100083	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100084	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100085	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100095	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100096	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100098	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100099	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100100	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100106	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100107	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100108	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100110	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100118	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100119	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100123	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking100128	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200001	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200002	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200005	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200016	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200017	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200018	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200019	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200020	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200021	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200038	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200051	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200053	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200054	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200055	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200056	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200057	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200058	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200062	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200064	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200065	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200066	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200069	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200070	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200071	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200072	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200073	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200074	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200075	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200076	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200082	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200083	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200087	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200088	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200090	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200091	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200092	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200093	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200108	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200109	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200110	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200111	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200112	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200113	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200115	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200116	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200122	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking200130	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300001	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300002	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300003	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300004	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300005	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300007	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300008	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300017	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300018	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300019	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300020	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300021	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300022	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300032	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300033	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300035	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300036	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300037	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300053	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300054	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300055	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300056	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300057	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300058	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300059	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300060	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300061	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300066	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300067	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300068	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300069	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300070	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300071	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300072	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300073	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300074	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300076	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300077	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300078	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300079	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300080	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300082	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300084	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300086	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300087	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300088	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300089	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300090	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300091	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300092	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300095	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300097	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300100	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300105	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300106	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300107	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300108	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300109	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300110	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300111	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300112	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300113	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300114	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300115	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300116	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300117	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300120	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300121	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking300123	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400008	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400011	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400012	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400016	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400017	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400018	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400019	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400020	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400021	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400024	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400026	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400034	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400035	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400036	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400037	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400039	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400041	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400042	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400048	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400053	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400054	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400055	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400058	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400066	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400068	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400070	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400075	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400077	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400083	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400088	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400089	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400093	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400103	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400104	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400105	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400111	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400113	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400120	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400121	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400122	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400124	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400126	Kinshasa	-4.4103963	15.411396	Kingasani
+kinking400130	Kinshasa	-4.4103963	15.411396	Kingasani
+konkimp100003	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100004	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100010	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100015	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100021	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100023	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100024	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100025	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100026	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100027	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100044	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100046	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100047	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100048	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100049	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100050	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100051	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100059	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100067	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100068	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100069	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100070	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100072	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100074	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100075	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100077	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100078	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100081	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100082	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100084	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100085	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100086	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100087	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100088	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100106	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100107	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100108	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100109	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100113	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100118	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100119	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100120	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100121	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100122	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100123	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100124	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100125	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100128	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp100130	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200032	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200040	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200051	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200079	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200084	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200085	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200087	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200095	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200096	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200097	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200102	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200103	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200105	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200119	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200120	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200127	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp200130	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300001	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300005	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300006	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300007	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300008	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300010	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300023	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300025	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300026	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300051	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300075	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300076	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300077	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300078	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300079	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300081	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300082	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300084	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300085	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300086	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300087	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300088	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300092	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300094	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300095	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300096	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300101	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300113	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300120	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300121	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300122	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300123	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300124	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300125	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300126	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300128	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300129	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp300130	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp400012	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp400013	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp400014	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp400016	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp400018	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp400019	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp400020	Kongo central	-5.8364071	13.426193	Kimpese
+konkimp400077	Kongo central	-5.8364071	13.426193	Kimpese
+nubkara100040	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100055	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100065	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100067	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100073	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100079	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100080	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100081	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100083	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100101	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100104	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100105	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100113	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100120	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100126	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara100129	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200001	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200018	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200041	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200079	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200080	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200081	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200082	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200083	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200084	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200091	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200093	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200101	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200110	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200118	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200119	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200125	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200126	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200127	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara200128	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300030	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300049	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300051	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300064	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300065	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300072	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300080	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300082	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300083	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300084	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300086	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300087	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300088	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300089	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300091	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300093	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300095	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300098	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300100	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300104	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300118	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300119	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara300129	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400041	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400042	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400046	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400053	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400054	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400055	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400056	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400057	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400058	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400059	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400080	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400084	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400087	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400088	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400090	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400092	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400093	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400094	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400095	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400098	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400100	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400103	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400111	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400118	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400123	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400124	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400125	Nord Ubangi	4.2849154	20.9858607	Karawa
+nubkara400127	Nord Ubangi	4.2849154	20.9858607	Karawa
+Paluseq01	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq02	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq03	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq04	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq05	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq06	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq07	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq08	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq09	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq10	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq11	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq13	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq14	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq15	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq16	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq17	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq18	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq19	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq20	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq21	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq22	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq23	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq24	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq25	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq26	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq27	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq28	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq29	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq30	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq31	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq32	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq33	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq34	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq35	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq36	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq37	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq38	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq39	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq40	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq41	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq42	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq43	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq44	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq45	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq46	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq47	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq48	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq49	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq50	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq51	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq52	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq53	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq54	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq55	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq56	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq57	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq58	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq59	Kinshasa	-4.4103963	15.411396	Kingasani
+Paluseq60	Kinshasa	-4.4103963	15.411396	Kingasani

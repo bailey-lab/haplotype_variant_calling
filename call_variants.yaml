@@ -1,0 +1,17 @@
+bindings: '-B /nfs/jbailey5/baileyweb/asimkin -B /nfs/jbailey5/baileyweb/bailey_share/resources/from_others/KevinW_resources'
+sif_file: '/nfs/jbailey5/baileyweb/asimkin/seekdeep/seekdeep_improved_variant_calling/elucidator_25_02_03.sif'
+output_folder: 'variant_output'
+genome_file: '/nfs/jbailey5/baileyweb/bailey_share/resources/from_others/KevinW_resources/pFalciparum/genomes/Pf3D7.fasta'
+gff_file: '/nfs/jbailey5/baileyweb/bailey_share/resources/from_others/KevinW_resources/pFalciparum/info/gff/Pf3D7.gff'
+
+#TODO: make sure this targets file is fully up to date with all mutations of interest
+seekdeep_targets_file: '/nfs/jbailey5/baileyweb/asimkin/seekdeep/seekdeep_improved_variant_calling/proof_of_principle/pf_drug_resistant_aaPositions.tsv'
+seekdeep_popclustering_folder: '/nfs/jbailey5/baileyweb/asimkin/other_people/chennell/low_crt_07-15-24/seekdeep_illumina_snakemake/seekdeep_output/analysis/popClustering'
+metadata_sheet: 'DRC_metadata.tsv'
+coverage_threshold: 10
+alternate_threshold: 3
+summarize_by: 'province'
+sample_column: 'sample_ID'
+latitude_name: 'Latitude'
+longitude_name: 'Longitude'
+geneid_to_genename: '/nfs/jbailey5/baileyweb/asimkin/seekdeep/seekdeep_improved_variant_calling/proof_of_principle/geneid_to_genename.tsv'
