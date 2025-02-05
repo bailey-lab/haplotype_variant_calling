@@ -32,7 +32,7 @@ rule call_variants:
 		output_folder=config['output_folder']+'/variantCallOnSeqAndProtein'
 	threads: 14
 	output:
-		called_aa_variants=config['output_folder']+'/variantCallOnSeqAndProtein/reports/AAChangesInfo.tsv.gz'
+		called_aa_variants=config['output_folder']+'/variantCallOnSeqAndProtein/reports/summary/AAChangesInfo.tsv.gz'
 	shell:
 		'''
 		singularity exec {params.bindings} {params.sif_file} SeekDeep \
